@@ -1,4 +1,4 @@
-constituition
+plan
 =============
 
-a constituition
+a plan
